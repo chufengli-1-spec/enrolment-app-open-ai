@@ -1,1 +1,7 @@
-
+{
+  "workflow_name": "lab5-ci",
+  "run_id": "34326067702",
+  "commit_sha": "d8f30e945d25c672342d55f3968e6c9f4f097b88",
+  "branch": "main",
+  "generated_timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+}
